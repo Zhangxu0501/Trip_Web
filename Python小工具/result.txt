@@ -1,0 +1,15 @@
+第1个结果
+xiecheng000001 beijing beijing 10-1 www.xiecheng.com beijing2 49361
+xiecheng000002 beijing beijing 10-1 www.xiecheng.com beijing3 88472
+1
+
+第2个结果
+xiecheng000003 beijing beijing 10-1 www.xiecheng.com beijing4 63893
+xiecheng000004 beijing beijing 10-1 www.xiecheng.com beijing5 62122
+1
+
+第3个结果
+xiecheng000005 beijing beijing 10-1 www.xiecheng.com beijing6 71621
+xiecheng000006 beijing beijing 10-1 www.xiecheng.com beijing7 1524
+0
+
